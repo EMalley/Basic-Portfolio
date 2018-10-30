@@ -1,5 +1,6 @@
 body{
-    background-image: url(basic-portfolio/assets/images/houndstooth-pattern.png)
+    background-color: #ffffff;
+    background-image: url(cross_scratches.png)
 }
 
 header{
@@ -37,11 +38,11 @@ nav li{
     position: relative;
 }
 
-.Name{
+/*.Name{
     float:left;
     display: block;
     color:#4aaaa5;
-}
+}*/
 
 .container{
     width: 960px
